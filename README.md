@@ -1,5 +1,5 @@
-# pyai-meta
-pyai-meta
+# metalearning-inisiatif
+metalearning-inisiatif
 
 ## model.pkl
 model.pkl adalah compiled code python logic untuk ai
